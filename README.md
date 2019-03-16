@@ -3,7 +3,7 @@
 - new folder
 - open in cmd
 - serverless create -t aws-nodejs
-- rename service name
+- rename service
 
 - configure function and events
 - configure .yaml with DB info
