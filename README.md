@@ -12,4 +12,4 @@
 - cat ~/.aws/credentials will show them if needed
 - serverless deploy
 - copy endpoint and bookmark if you want
-- if you try to deplay and get error for path then delete some part of path, deploy and add new path then deploy again
+- if you try to deploy and get error for path then delete some part of path, deploy and add new path then deploy again
